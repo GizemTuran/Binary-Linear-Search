@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\gizem\source\repos\Discrete PA1-Q2\Discrete PA1-Q2\Kaynak.cpp(77,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Discrete PA1-Q2.vcxproj -> C:\Users\gizem\source\repos\Discrete PA1-Q2\Debug\Discrete PA1-Q2.exe
